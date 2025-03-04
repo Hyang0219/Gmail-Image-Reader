@@ -1,0 +1,12 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+PyPDF2
+pdf2image
+pytesseract
+pillow
+pandas
+python-dotenv
+gspread
+oauth2client
+openai 
